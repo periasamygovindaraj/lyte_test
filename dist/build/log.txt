@@ -1,0 +1,42 @@
+Timing to complete init function0.001 s
+CliLocation :/home/local/ZOHOCORP/samy-13274/.nvm/versions/node/v19.2.0/lib/node_modules/@zoho/lyte-cli
+ CliVersion 3.3.1
+Building time of copyAppDir : 0.001 s
+[Copy] routes => dist/routes
+
+Building time of routes : 0.001 s
+Building components ....
+Searching for syntax errors.....
+Finding the unclosed tags compilation over
+[Time] => find unclosedTags => 0.008 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Creating new browser instance 
+New browser instance launched
+browser Endpoint ws://127.0.0.1:43951/devtools/browser/2175d43e-4b4c-45df-b4a6-cd163e011e70
+Browser launched
+page opened
+Post method request get caught with url/post
+Time taken for end call back be 0.162 s
+Callback function called 0.001 swelcome-comp
+Time to end the dynamic nodes0.163 s
+Generating dist components...
+
+Time to end processing template0.003 s
+Building time of components : 0.175 s
+Building models ..............
+
+Building time of models : 0.001 s
+Building helpers .....
+[Copy] components/helpers => dist/components/helpers
+
+Building time of helpers : 0.001 s
+Building time of mixins : 0 s
+Building time of services : 0 s
+Consolidated file created in the dist/app.js
+
+Building time of consolidate : 0.002 s
+LiveServer running in 41757
+Minified Count : 0
+Total Building Time : 0.199 s
+Building completed
